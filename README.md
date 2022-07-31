@@ -107,11 +107,11 @@ Preface you branch name with
 - they do not lower test coverage (unreasonably)
 ### Other screens
 - Search
-![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blog/main/search-screenshot.png)
+![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blob/main/search-screenshot.png)
 - Playlist details
-![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blog/main/PlayList-Screenshot.png)
+![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blob/main/PlayList-Screenshot.png)
 - Artist Details
-![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blog/main/Single-Album-Screenshot.png)
+![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blob/main/Single-Album-Screenshot.png)
 
 ### sample test coverage
-![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blog/Test-ScreenShot.png.png)
+![Tests](https://github.com/owuorvin/DVT-Deezer-FrontendTest/blob/main/Test-ScreenShot.png)
